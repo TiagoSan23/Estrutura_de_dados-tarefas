@@ -22,7 +22,7 @@ Este repositório está licenciado sob a licença MIT.
 
 **Contato:**
 
-*  tiago.santini@email.com
+*  tiago.santini06@gmail.com
 *  Perfil do GitHub: [URL inválido removido]
 
 
