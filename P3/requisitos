@@ -1,0 +1,7 @@
+P.4.2. Desenvolva um programa que leia os dados de um arquivo de texto e que armazene cada 
+uma das palavras em uma lista encadeada (cada nó da lista contém uma palavra). Depois de 
+carregar os dados na lista, o programa inverte a ordem dos elementos da lista (ulizando 
+somente uma outra lista) e imprime a lista em ordem direta e em ordem reversa. Dependendo 
+da escolha do usuário, o programa gera um novo arquivo de saída (colocar o sufixo _out.txt) que 
+contém o texto idênFco ao original ou em ordem reversa (atentar para os espaços em branco e 
+para os sinais de pontuação). 
